@@ -12,6 +12,7 @@
 - 🎓 Student Softwaredevelopment aan ROC Aventus
 - 🌱 Op dit moment bezig met App en Web development
 - 🔍 Open voor stage vanaf september 2026
+- 🌐 Mijn website: [erbendriessen.nl](https://erbendriessen.nl)
 - 📫 Bereikbaar via [e-mail](mailto:erben.l.driessen@gmail.com) of [LinkedIn](https://www.linkedin.com/in/erben-driessen-3837b429a/)
 
 ---
@@ -22,6 +23,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erben-driessen-3837b429a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erben.l.driessen@gmail.com)
+[![Website](https://img.shields.io/badge/Website-erbendriessen.nl-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://erbendriessen.nl)
 
 </div>
 
